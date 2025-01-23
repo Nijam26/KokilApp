@@ -1,0 +1,341 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KokilApp.9il0s3bxec.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\user.jpg"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
+      "PackagePath": "staticwebassets\\images\\favicon.jpg"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\group-2.png"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
+      "PackagePath": "staticwebassets\\images\\icons\\home.png"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
+      "PackagePath": "staticwebassets\\images\\icons\\page.png"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
+      "PackagePath": "staticwebassets\\images\\icons\\video.png"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
+      "PackagePath": "staticwebassets\\images\\placeholders\\post-placeholder.jpg"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KokilApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KokilApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KokilApp.props",
+      "PackagePath": "build\\KokilApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KokilApp.props",
+      "PackagePath": "buildMultiTargeting\\KokilApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KokilApp.props",
+      "PackagePath": "buildTransitive\\KokilApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
