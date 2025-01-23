@@ -32,3 +32,4 @@ F:\NIJ@M\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\refint\KokilApp.dll
 F:\NIJ@M\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\KokilApp.pdb
 F:\NIJ@M\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\KokilApp.genruntimeconfig.cache
 F:\NIJ@M\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\ref\KokilApp.dll
+F:\NIJ@M\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\KokilApp.sourcelink.json
