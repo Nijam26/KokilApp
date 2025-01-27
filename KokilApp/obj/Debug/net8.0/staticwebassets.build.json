@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1OFaEBO+AR+ML1G+rdtjgu/fXx3kwvWWm8n68Sc1dds=",
+  "Hash": "fFd7RqcU6SdLG8yY1HXPq7FbzGbXojDm90J1rMaaNsA=",
   "Source": "KokilApp",
   "BasePath": "_content/KokilApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "KokilApp\\wwwroot",
       "Source": "KokilApp",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
       "SourceId": "KokilApp",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "KokilApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "4eT3USiiE71pnknBOjGjLPpb4+2Ci7k2iAirUnGTPU0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css"
+      "OriginalItemSpec": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
       "SourceId": "KokilApp",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "KokilApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "4eT3USiiE71pnknBOjGjLPpb4+2Ci7k2iAirUnGTPU0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css"
+      "OriginalItemSpec": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "css/tailwind#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\tailwind.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/avatar/user#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar\\user.jpg"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/favicon#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.jpg"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/icons/group-2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\group-2.png"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/icons/home#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\home.png"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/icons/page#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\page.png"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/icons/video#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\video.png"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/logo#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "images/placeholders/post-placeholder#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\images\\placeholders\\post-placeholder.jpg"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "js/script#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "js/simplebar#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\js\\simplebar.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "js/uikit.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\js\\uikit.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "syntax-highlighter/scripts/shBrushJScript#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "syntax-highlighter/scripts/shBrushXml#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "syntax-highlighter/scripts/shCore#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\syntax-highlighter\\scripts\\shCore.js"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "syntax-highlighter/styles/shCore#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\syntax-highlighter\\styles\\shCore.css"
     },
     {
-      "Identity": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "Identity": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "SourceId": "KokilApp",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
+      "ContentRoot": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\",
       "BasePath": "_content/KokilApp",
       "RelativePath": "syntax-highlighter/styles/shCoreMidnight#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1700,7 +1700,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1721,7 +1721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:14:06 GMT"
+          "Value": "Wed, 22 Jan 2025 11:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1737,7 +1737,7 @@
     },
     {
       "Route": "css/site.w7lqmnj6nc.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1758,7 +1758,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:14:06 GMT"
+          "Value": "Wed, 22 Jan 2025 11:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1782,7 +1782,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1819,7 +1819,7 @@
     },
     {
       "Route": "css/style.mz2bba8ryg.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1864,7 +1864,7 @@
     },
     {
       "Route": "css/tailwind.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1901,7 +1901,7 @@
     },
     {
       "Route": "css/tailwind.rssjosyve1.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\css\\tailwind.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1946,7 +1946,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1967,7 +1967,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1991,7 +1991,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2012,7 +2012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2028,7 +2028,7 @@
     },
     {
       "Route": "images/avatar/user.hgse44acup.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 02:20:03 GMT"
+          "Value": "Wed, 22 Jan 2025 02:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2073,7 +2073,7 @@
     },
     {
       "Route": "images/avatar/user.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\avatar\\user.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2094,7 +2094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 02:20:03 GMT"
+          "Value": "Wed, 22 Jan 2025 02:20:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2110,7 +2110,7 @@
     },
     {
       "Route": "images/favicon.1jzq7qsx5e.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2131,7 +2131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:44:45 GMT"
+          "Value": "Wed, 22 Jan 2025 11:44:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2155,7 +2155,7 @@
     },
     {
       "Route": "images/favicon.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\favicon.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2176,7 +2176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:44:45 GMT"
+          "Value": "Wed, 22 Jan 2025 11:44:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2192,7 +2192,7 @@
     },
     {
       "Route": "images/icons/group-2.fz2kvfek51.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2237,7 +2237,7 @@
     },
     {
       "Route": "images/icons/group-2.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\group-2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2274,7 +2274,7 @@
     },
     {
       "Route": "images/icons/home.9digs2qg7o.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2319,7 +2319,7 @@
     },
     {
       "Route": "images/icons/home.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\home.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2356,7 +2356,7 @@
     },
     {
       "Route": "images/icons/page.237y6cifis.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2401,7 +2401,7 @@
     },
     {
       "Route": "images/icons/page.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\page.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2438,7 +2438,7 @@
     },
     {
       "Route": "images/icons/video.1ip9h76r9w.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2483,7 +2483,7 @@
     },
     {
       "Route": "images/icons/video.png",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\icons\\video.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2520,7 +2520,7 @@
     },
     {
       "Route": "images/logo.6i3sd8ync4.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2541,7 +2541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 02:02:02 GMT"
+          "Value": "Wed, 22 Jan 2025 02:02:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2565,7 +2565,7 @@
     },
     {
       "Route": "images/logo.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\logo.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2586,7 +2586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 02:02:02 GMT"
+          "Value": "Wed, 22 Jan 2025 02:02:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2602,7 +2602,7 @@
     },
     {
       "Route": "images/placeholders/post-placeholder.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2623,7 +2623,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:31:30 GMT"
+          "Value": "Wed, 22 Jan 2025 10:31:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2639,7 +2639,7 @@
     },
     {
       "Route": "images/placeholders/post-placeholder.oig5g1my2f.jpg",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\images\\placeholders\\post-placeholder.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2660,7 +2660,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 10:31:30 GMT"
+          "Value": "Wed, 22 Jan 2025 10:31:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2684,7 +2684,7 @@
     },
     {
       "Route": "js/script.6f9r9drxcn.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2729,7 +2729,7 @@
     },
     {
       "Route": "js/script.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2766,7 +2766,7 @@
     },
     {
       "Route": "js/simplebar.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2803,7 +2803,7 @@
     },
     {
       "Route": "js/simplebar.lxzyflrzcn.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\simplebar.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2848,7 +2848,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2869,7 +2869,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2885,7 +2885,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2906,7 +2906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2930,7 +2930,7 @@
     },
     {
       "Route": "js/uikit.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2967,7 +2967,7 @@
     },
     {
       "Route": "js/uikit.min.n9dwubpwf7.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\js\\uikit.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3012,7 +3012,7 @@
     },
     {
       "Route": "KokilApp.9il0s3bxec.bundle.scp.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3033,7 +3033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:12 GMT"
+          "Value": "Wed, 22 Jan 2025 11:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3057,7 +3057,7 @@
     },
     {
       "Route": "KokilApp.9il0s3bxec.styles.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3078,7 +3078,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:12 GMT"
+          "Value": "Wed, 22 Jan 2025 11:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3102,7 +3102,7 @@
     },
     {
       "Route": "KokilApp.bundle.scp.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KokilApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3123,7 +3123,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:12 GMT"
+          "Value": "Wed, 22 Jan 2025 11:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +3139,7 @@
     },
     {
       "Route": "KokilApp.styles.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\KokilApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3160,7 +3160,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 11:51:12 GMT"
+          "Value": "Wed, 22 Jan 2025 11:51:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3176,7 +3176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3197,7 +3197,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3213,7 +3213,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3234,7 +3234,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3258,7 +3258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3279,7 +3279,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3295,7 +3295,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3316,7 +3316,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3340,7 +3340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3361,7 +3361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3377,7 +3377,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3398,7 +3398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3422,7 +3422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3443,7 +3443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3459,7 +3459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3480,7 +3480,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3504,7 +3504,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3525,7 +3525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3541,7 +3541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3562,7 +3562,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3586,7 +3586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3607,7 +3607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3623,7 +3623,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3644,7 +3644,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3668,7 +3668,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3689,7 +3689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3705,7 +3705,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3726,7 +3726,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3750,7 +3750,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3771,7 +3771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3787,7 +3787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3808,7 +3808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3832,7 +3832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3853,7 +3853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3877,7 +3877,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3898,7 +3898,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3914,7 +3914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3935,7 +3935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3951,7 +3951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3972,7 +3972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3996,7 +3996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4017,7 +4017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4033,7 +4033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4054,7 +4054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4078,7 +4078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4099,7 +4099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4115,7 +4115,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4136,7 +4136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4160,7 +4160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4197,7 +4197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4218,7 +4218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4242,7 +4242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4263,7 +4263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4279,7 +4279,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4300,7 +4300,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4316,7 +4316,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4337,7 +4337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4353,7 +4353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4374,7 +4374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4398,7 +4398,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4419,7 +4419,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4443,7 +4443,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4464,7 +4464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4488,7 +4488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4509,7 +4509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4533,7 +4533,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4554,7 +4554,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4570,7 +4570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4591,7 +4591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4615,7 +4615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4636,7 +4636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4652,7 +4652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4673,7 +4673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4689,7 +4689,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4710,7 +4710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4726,7 +4726,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4747,7 +4747,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4771,7 +4771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4792,7 +4792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4816,7 +4816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4837,7 +4837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4861,7 +4861,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4882,7 +4882,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4898,7 +4898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4919,7 +4919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4943,7 +4943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4964,7 +4964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4980,7 +4980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5001,7 +5001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5017,7 +5017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5038,7 +5038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5054,7 +5054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5075,7 +5075,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5099,7 +5099,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5120,7 +5120,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5144,7 +5144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5165,7 +5165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5181,7 +5181,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5202,7 +5202,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5226,7 +5226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +5247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5263,7 +5263,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5284,7 +5284,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5308,7 +5308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5329,7 +5329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5345,7 +5345,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5366,7 +5366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5382,7 +5382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5403,7 +5403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5427,7 +5427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5448,7 +5448,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5472,7 +5472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5493,7 +5493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5509,7 +5509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5530,7 +5530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5554,7 +5554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5575,7 +5575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5591,7 +5591,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,7 +5612,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5628,7 +5628,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5649,7 +5649,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5673,7 +5673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5694,7 +5694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5710,7 +5710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5731,7 +5731,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5755,7 +5755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5776,7 +5776,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5800,7 +5800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5821,7 +5821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5837,7 +5837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5858,7 +5858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5882,7 +5882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5903,7 +5903,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5919,7 +5919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5940,7 +5940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5964,7 +5964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5985,7 +5985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6009,7 +6009,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6030,7 +6030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6046,7 +6046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6067,7 +6067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6091,7 +6091,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6112,7 +6112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6128,7 +6128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6149,7 +6149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6165,7 +6165,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6186,7 +6186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6210,7 +6210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6231,7 +6231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6247,7 +6247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6268,7 +6268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6292,7 +6292,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6313,7 +6313,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6329,7 +6329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6350,7 +6350,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6366,7 +6366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6387,7 +6387,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6411,7 +6411,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6432,7 +6432,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6456,7 +6456,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6477,7 +6477,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6493,7 +6493,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6514,7 +6514,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6538,7 +6538,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6559,7 +6559,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6575,7 +6575,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6596,7 +6596,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6612,7 +6612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6633,7 +6633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6649,7 +6649,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6670,7 +6670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6694,7 +6694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6715,7 +6715,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6739,7 +6739,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6760,7 +6760,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6784,7 +6784,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6805,7 +6805,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6821,7 +6821,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6842,7 +6842,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6866,7 +6866,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6887,7 +6887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6911,7 +6911,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6932,7 +6932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6948,7 +6948,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6969,7 +6969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6993,7 +6993,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7014,7 +7014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7038,7 +7038,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7059,7 +7059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7075,7 +7075,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7096,7 +7096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7112,7 +7112,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7133,7 +7133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7157,7 +7157,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7178,7 +7178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7194,7 +7194,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7215,7 +7215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7239,7 +7239,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7260,7 +7260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7276,7 +7276,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7297,7 +7297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7321,7 +7321,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7342,7 +7342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7358,7 +7358,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7379,7 +7379,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7395,7 +7395,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7416,7 +7416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7440,7 +7440,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7461,7 +7461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7477,7 +7477,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7498,7 +7498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7522,7 +7522,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7543,7 +7543,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7559,7 +7559,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7580,7 +7580,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7604,7 +7604,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7625,7 +7625,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7649,7 +7649,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7670,7 +7670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7686,7 +7686,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7707,7 +7707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7731,7 +7731,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7752,7 +7752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7768,7 +7768,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7789,7 +7789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7813,7 +7813,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7834,7 +7834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 21 Jan 2025 09:41:57 GMT"
+          "Value": "Tue, 21 Jan 2025 09:41:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7850,7 +7850,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shBrushJScript.6w9j14fygc.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7895,7 +7895,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shBrushJScript.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7932,7 +7932,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shBrushXml.52a20dwd0l.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7977,7 +7977,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shBrushXml.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8014,7 +8014,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shCore.7n9n0swffm.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8059,7 +8059,7 @@
     },
     {
       "Route": "syntax-highlighter/scripts/shCore.js",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8096,7 +8096,7 @@
     },
     {
       "Route": "syntax-highlighter/styles/shCore.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8133,7 +8133,7 @@
     },
     {
       "Route": "syntax-highlighter/styles/shCore.pmrwgncoh8.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8178,7 +8178,7 @@
     },
     {
       "Route": "syntax-highlighter/styles/shCoreMidnight.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8215,7 +8215,7 @@
     },
     {
       "Route": "syntax-highlighter/styles/shCoreMidnight.naq7nvi4fe.css",
-      "AssetFile": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "AssetFile": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KokilApp
 build_property.RootNamespace = KokilApp
-build_property.ProjectDir = F:\NIJ@M\MyApp\KokilApp\KokilApp\
+build_property.ProjectDir = E:\My_PROJECT\MyApp\KokilApp\KokilApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\NIJ@M\MyApp\KokilApp\KokilApp
+build_property.MSBuildProjectDirectory = E:\My_PROJECT\MyApp\KokilApp\KokilApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Home/Index.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/Error.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/Modals/_CreateStatus.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/Modals/_CreateStatus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsc1xfQ3JlYXRlU3RhdHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/Modals/_CreateStory.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/Modals/_CreateStory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1vZGFsc1xfQ3JlYXRlU3RvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/Navigation/_SideBar.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/Navigation/_SideBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmlnYXRpb25cX1NpZGVCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/Navigation/_TopBar.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/Navigation/_TopBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmlnYXRpb25cX1RvcEJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/SideBar/_SuggestedPeople.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/SideBar/_SuggestedPeople.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGVCYXJcX1N1Z2dlc3RlZFBlb3BsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/SideBar/_TrendsForYou.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/SideBar/_TrendsForYou.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGVCYXJcX1RyZW5kc0ZvcllvdS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/_ViewImports.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/_ViewStart.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/NIJ@M/MyApp/KokilApp/KokilApp/Views/Shared/_Layout.cshtml]
+[E:/My_PROJECT/MyApp/KokilApp/KokilApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5tauolzfur

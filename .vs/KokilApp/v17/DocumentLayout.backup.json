@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|solutionrelative:kokilapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|f:\\nij@m\\myapp\\kokilapp\\kokilapp\\views\\shared\\sidebar\\_trendsforyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|solutionrelative:kokilapp\\views\\shared\\sidebar\\_trendsforyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|f:\\nij@m\\myapp\\kokilapp\\kokilapp\\views\\shared\\sidebar\\_suggestedpeople.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|solutionrelative:kokilapp\\views\\shared\\sidebar\\_suggestedpeople.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_TrendsForYou.cshtml",
+              "DocumentMoniker": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Shared\\SideBar\\_TrendsForYou.cshtml",
+              "RelativeDocumentMoniker": "KokilApp\\Views\\Shared\\SideBar\\_TrendsForYou.cshtml",
+              "ToolTip": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Shared\\SideBar\\_TrendsForYou.cshtml",
+              "RelativeToolTip": "KokilApp\\Views\\Shared\\SideBar\\_TrendsForYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:58:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_SuggestedPeople.cshtml",
               "DocumentMoniker": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Shared\\SideBar\\_SuggestedPeople.cshtml",
               "RelativeDocumentMoniker": "KokilApp\\Views\\Shared\\SideBar\\_SuggestedPeople.cshtml",
               "ToolTip": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Shared\\SideBar\\_SuggestedPeople.cshtml",
               "RelativeToolTip": "KokilApp\\Views\\Shared\\SideBar\\_SuggestedPeople.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-23T10:42:32.513Z",
               "EditorCaption": ""
@@ -43,16 +60,16 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "KokilApp\\Views\\Home\\Index.cshtml",
-              "ToolTip": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "KokilApp\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KokilApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAUwKwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-22T06:03:44.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "F:\\NIJ@M\\MyApp\\KokilApp\\KokilApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "KokilApp\\Controllers\\HomeController.cs",
