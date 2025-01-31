@@ -1,5 +1,4 @@
 using System.Diagnostics;
-using KokilApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace KokilApp.Controllers
