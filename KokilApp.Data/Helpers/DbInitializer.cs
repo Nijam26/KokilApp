@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KokilApp.Data
+namespace KokilApp.Data.Helpers
 {
     public static class DbInitializer
     {
