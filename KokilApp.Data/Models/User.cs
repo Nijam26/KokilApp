@@ -10,7 +10,8 @@ namespace KokilApp.Data.Models
     {
         public int Id { get; set; }
         public string FullName { get; set; }
-        public string? PropfilePictureUrl { get; set; }
+        public string? ProfilePictureUrl { get; set; }
+
         //Navigation Property
         public ICollection<Post> Posts { get; set; } = new List<Post>();
     }

@@ -16,7 +16,7 @@ namespace KokilApp.Data.Helpers
                 var newUser = new User()
                 {
                     FullName = "Ervis Trupja",
-                    PropfilePictureUrl = "https://img-b.udemycdn.com/user/200_H/16004620_10db_5.jpg"
+                    ProfilePictureUrl = "https://img-b.udemycdn.com/user/200_H/16004620_10db_5.jpg"
                 };
                 await appDbContext.Users.AddAsync(newUser);
                 await appDbContext.SaveChangesAsync();
