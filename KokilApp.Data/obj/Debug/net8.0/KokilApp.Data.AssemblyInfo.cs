@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59cd9c4a0115ae72f1c1201db7e5b1af26b705f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0bd97fafa26e2e930a46f75021ae8286ae8dc3")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
