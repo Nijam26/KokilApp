@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7d78abecc119dc6c4a9ae60d9277dd1434b4347")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59cd9c4a0115ae72f1c1201db7e5b1af26b705f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KokilApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
