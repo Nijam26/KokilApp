@@ -206,3 +206,5 @@ E:\My_PROJECT\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\refint\KokilApp.dll
 E:\My_PROJECT\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\KokilApp.pdb
 E:\My_PROJECT\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\KokilApp.genruntimeconfig.cache
 E:\My_PROJECT\MyApp\KokilApp\KokilApp\obj\Debug\net8.0\ref\KokilApp.dll
+E:\My_PROJECT\MyApp\KokilApp\KokilApp\bin\Debug\net8.0\KokilApp.Data.dll
+E:\My_PROJECT\MyApp\KokilApp\KokilApp\bin\Debug\net8.0\KokilApp.Data.pdb

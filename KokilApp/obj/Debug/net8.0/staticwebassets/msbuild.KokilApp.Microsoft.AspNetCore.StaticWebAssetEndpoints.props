@@ -196,13 +196,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\KokilApp.9il0s3bxec.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9il0s3bxec"},{"Name":"integrity","Value":"sha256-4eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0="},{"Name":"label","Value":"_content/KokilApp/KokilApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 08:03:07 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 09:48:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/KokilApp/KokilApp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\KokilApp.9il0s3bxec.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 08:03:07 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00224eT3USiiE71pnknBOjGjLPpb4\u002B2Ci7k2iAirUnGTPU0=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Jan 2025 09:48:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/KokilApp/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

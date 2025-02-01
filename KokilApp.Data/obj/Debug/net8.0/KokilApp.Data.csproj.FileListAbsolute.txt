@@ -1,0 +1,15 @@
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\bin\Debug\net8.0\KokilApp.Data.deps.json
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\bin\Debug\net8.0\KokilApp.Data.runtimeconfig.json
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\bin\Debug\net8.0\KokilApp.Data.dll
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\bin\Debug\net8.0\KokilApp.Data.pdb
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.csproj.AssemblyReference.cache
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.AssemblyInfoInputs.cache
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.AssemblyInfo.cs
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.csproj.CoreCompileInputs.cache
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.sourcelink.json
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.dll
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\refint\KokilApp.Data.dll
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.pdb
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\KokilApp.Data.genruntimeconfig.cache
+E:\My_PROJECT\MyApp\KokilApp\KokilApp.Data\obj\Debug\net8.0\ref\KokilApp.Data.dll
