@@ -3,66 +3,12 @@
   "WorkspaceRootPath": "E:\\My_PROJECT\\MyApp\\KokilApp\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\helpers\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|solutionrelative:kokilapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B325DE37-D561-466C-A863-F15460846AB1}|KokilApp\\KokilApp.csproj|solutionrelative:kokilapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|e:\\my_project\\myapp\\kokilapp\\kokilapp.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20E54330-CACC-47D9-B221-6DB10CF10CD9}|KokilApp.Data\\KokilApp.Data.csproj|solutionrelative:kokilapp.data\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -75,138 +21,33 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-<<<<<<< Updated upstream
               "DocumentIndex": 0,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "KokilApp.Data\\Helpers\\DbInitializer.cs",
+              "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Helpers\\DbInitializer.cs",
+              "RelativeToolTip": "KokilApp.Data\\Helpers\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:57:45.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\Program.cs",
               "RelativeDocumentMoniker": "KokilApp\\Program.cs",
               "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp\\Program.cs",
               "RelativeToolTip": "KokilApp\\Program.cs",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T10:42:39.148Z",
-=======
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:42:39.148Z",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:42:39.148Z",
->>>>>>> Stashed changes
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:42:39.148Z",
->>>>>>> Stashed changes
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:42:39.148Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
-=======
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
-=======
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
-=======
-              "DocumentIndex": 1,
->>>>>>> Stashed changes
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "KokilApp.Data\\DbInitializer.cs",
-              "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\DbInitializer.cs",
-              "RelativeToolTip": "KokilApp.Data\\DbInitializer.cs",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "ViewState": "AgIAABkAAAAAAAAAAAAowCQAAABPAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
->>>>>>> Stashed changes
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
->>>>>>> Stashed changes
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
->>>>>>> Stashed changes
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T10:31:11.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Post.cs",
-              "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "KokilApp.Data\\Models\\Post.cs",
-              "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Models\\Post.cs",
-              "RelativeToolTip": "KokilApp.Data\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:51:05.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "KokilApp.Data\\AppDbContext.cs",
-              "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\AppDbContext.cs",
-              "RelativeToolTip": "KokilApp.Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:47:25.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "KokilApp.Data\\Models\\User.cs",
-              "ToolTip": "E:\\My_PROJECT\\MyApp\\KokilApp\\KokilApp.Data\\Models\\User.cs",
-              "RelativeToolTip": "KokilApp.Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T09:56:04.264Z",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]
